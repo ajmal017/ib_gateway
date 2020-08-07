@@ -1,0 +1,14 @@
+tws_conf = {
+    "publish": 12345,
+    "host": "127.0.0.1",
+    "port": 1234,
+    "clientid": 0,
+    "accountid": "ib_account",
+    "username": "ib_user",
+    "password": "ib_pass",
+    "symbol": "smart.xau_usd.spot"
+}
+ding = {
+    "token": "",
+    "private_key": ""
+}

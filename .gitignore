@@ -1,0 +1,15 @@
+*.pyc
+*.bak
+local.py
+requirements.txt
+*.pem
+py3
+logs/*.log
+*.log.*
+*.log
+node_modules
+.idea
+*.pdf
+*.png
+config.py
+__pycache__
